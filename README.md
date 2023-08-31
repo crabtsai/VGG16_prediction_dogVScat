@@ -1,4 +1,4 @@
-![image](https://github.com/crabtsai/VGG16_prediction_dogVScat/assets/87925842/96788c3d-6064-4c13-8879-8a2d86f7ace4)# VGG16_prediction_dogVScat
+
 VGG16 凍結卷積基底及微調應用 貓狗辨識
 
 結果由streamlit 網頁app呈現 
